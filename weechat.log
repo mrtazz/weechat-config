@@ -1,0 +1,17 @@
+[2012-08-23 07:04:37] weechat 0.3.8 (compiled on Aug 23 2012 06:50:21)
+[2012-08-23 07:04:37] Reading configuration file weechat.conf
+[2012-08-23 07:04:37] Reading configuration file plugins.conf
+[2012-08-23 07:04:37] Reading configuration file alias.conf
+[2012-08-23 07:04:37] Reading configuration file charset.conf
+[2012-08-23 07:04:37] Reading configuration file irc.conf
+[2012-08-23 07:04:37] Reading configuration file logger.conf
+[2012-08-23 07:04:37] Reading configuration file relay.conf
+[2012-08-23 07:04:37] Reading configuration file rmodifier.conf
+[2012-08-23 07:04:37] Reading configuration file buffers.conf
+[2012-08-23 07:04:37] Reading configuration file wg.conf
+[2012-08-23 07:04:37] Reading configuration file xfer.conf
+[2012-08-23 07:05:13] irc: connecting to server vlad.uwniredcouch.com/33333 (SSL)...
+[2012-08-23 07:05:41] irc: connecting to server vlad.unwiredcouch.com/33333 (SSL)...
+[2012-08-24 17:34:45] irc: connecting to server vlad.unwiredcouch.com/33333 (SSL)...
+[2012-08-25 03:14:53] Writing configuration file buffers.conf 
+[2012-08-25 03:14:54] Reading configuration file buffers.conf
